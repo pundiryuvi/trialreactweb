@@ -1,0 +1,25 @@
+body{
+  background-color: mediumaquamarine;
+  box-sizing: border-box;
+}
+
+div{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -30px;
+}
+
+h1{
+  display: block;
+  background-color: lavenderblush;
+  text-align: center;
+  padding-top: 20px;
+  width: 30%;
+  height: 10vh;
+  color: rgb(75, 209, 202);
+  border-radius: 10px;
+}
+
